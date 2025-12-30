@@ -1,5 +1,9 @@
 # ***Hello, World!***  
 
+> [!NOTE]
+> このプロフィールはは2025年の大晦日の午前３時に深夜テンションで書いています。
+> 内容がノリ重視かもしれません。
+
 ### 事故紹介  
 ペンギンが大好きな人。プログラミング何年かやってるはずなのに、GitHubというサービス（が自分でも登録できること）を最近知った。  
 Rust本体にコミットすることを目標に、日々勉強中・・・。  
@@ -10,5 +14,6 @@ Rust本体にコミットすることを目標に、日々勉強中・・・。
 ## スキル 
 ![Tech Stack](https://skillicons.dev/icons?i=rust,python)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KaiTomotake&show_icons=true&count_private=false&hide_border=true" align="center" style="width: 100%" /></div>  
+## ただの宣伝
+Rust言語の日本語Discordコミュニティを運営しています！
+参加は[こちら](https://discord.com/invite/KDCDNtxzB9)
