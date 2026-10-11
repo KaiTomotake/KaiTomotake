@@ -1,12 +1,12 @@
 # ***Hello, World!***  
 
 ### 自己紹介
-RustとPythonとペンギンを愛する人間。プログラミング＝浪漫だと思っている。
-最近はWeb小説を読むことにはまっている。
+RustとPythonとペンギンが好きです。
+いろんなプロジェクトを気まぐれで作っています。
 
 ### スキル 
 ![Tech Stack](https://skillicons.dev/icons?i=rust,python)
 
-### ただの宣伝
-Rust言語の日本語Discordコミュニティを運営しています！
-参加は[こちら](https://discord.com/invite/KDCDNtxzB9)
+### 活動
+RustコミュニティをDiscordで運営しています。
+参加：https://rust-lang.jp/join
